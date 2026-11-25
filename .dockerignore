@@ -1,0 +1,11 @@
+build/
+.gradle/
+.idea/
+src/main/java-generated/
+.git/
+k8s/
+db/
+values.tpl.yaml
+*.md
+Dockerfile
+docker-compose.yml
